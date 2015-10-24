@@ -15,10 +15,10 @@ and then I use k-means clustering to explore different types of Yelp
 users. After that I visualize the result using matplotlib and Tableau, and then
 identify the segments who are most likely to be trendsetters on Yelp.
 
-### Please review on the following files:
-1. nanette_notebook1_datamunging 
-2. nanette_notebook2_featureeng 
-3. nanette_notebook3_unsupervised 
-4. yelp.pptx
+### Note the following files:
+1. nanette_notebook1_datamunging (where I do data exploration)
+2. nanette_notebook2_featureeng (where I create new features)
+3. nanette_notebook3_unsupervised (where I run my k-means clustering)
+4. yelp.pptx (where I show my result)
 
 The rest of the files can be ignored.
