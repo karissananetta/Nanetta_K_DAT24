@@ -7,7 +7,7 @@ This repository contains the final project for the Data Science class at General
 I define trendsetters to be users who leave their reviews early, have
 huge social network, and review/frequent popular businesses.
 
-https://github.com/karissananetta/Nanetta_K_DAT24/blob/master/trendsetters_requirements.png
+<img src="https://github.com/karissananetta/Nanetta_K_DAT24/blob/master/trendsetters_requirements.png">
 
 I use the following method to identify the Yelp trendsetters:
 I create new features that allow me to track the characteristics above on the user level,
