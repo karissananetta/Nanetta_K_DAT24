@@ -16,9 +16,9 @@ users. After that I visualize the result using matplotlib and Tableau, and then
 identify the segments who are most likely to be trendsetters on Yelp.
 
 ### Note the following files:
-1. nanette_notebook1_datamunging (where I do data exploration)
-2. nanette_notebook2_featureeng (where I create new features)
-3. nanette_notebook3_unsupervised (where I run my k-means clustering)
+1. nb1_datamunging (where I do data exploration)
+2. nb2_featureeng (where I create new features)
+3. nb3_unsupervised (where I run my k-means clustering)
 4. yelp.pptx (where I show my result)
 
 The rest of the files can be ignored.
