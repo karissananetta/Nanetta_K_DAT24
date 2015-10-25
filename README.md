@@ -17,7 +17,7 @@ identify the segments who are most likely to be trendsetters on Yelp.
 
 ### Note the following files:
 1. nb1_datamunging (where I do data exploration)
-2. nb2_featureeng (where I create new features)
+2. nb2_feature (where I create new features)
 3. nb3_unsupervised (where I run my k-means clustering)
 4. yelp.pptx (where I show my result)
 
